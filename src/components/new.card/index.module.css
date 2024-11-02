@@ -1,0 +1,31 @@
+.wrap__block{
+    position: relative;
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wrap__title{
+    position: absolute;
+    top: 155px;
+    left: 25px;
+    text-align: center;
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 133%;
+    color: var(--white);
+}
+
+.wrap__item{
+    padding-top: 40px;
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 125%;
+    color: var(--text);
+}
+
+
+
+

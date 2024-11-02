@@ -1,0 +1,31 @@
+.main__open{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 3oopx;
+    height: 110px;
+}
+
+.main__block{
+    justify-content: space-between;
+    padding-top: 56px;
+    display: flex;
+    align-items: center;
+
+}
+.maun__title{
+    padding-bottom: 10px;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #11142d;
+}
+
+.main__text{
+    width: 210px;
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 11px;
+    color: #aaa;
+}
